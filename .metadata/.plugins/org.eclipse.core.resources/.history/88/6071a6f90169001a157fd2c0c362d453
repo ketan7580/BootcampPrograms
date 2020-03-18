@@ -1,0 +1,12 @@
+package com.bridgelabz.bootcampprograms.day1;
+
+public class LinkedList {
+	Node head;
+	{
+		public void insert(int data)
+		{
+			
+		}
+	}
+
+}
